@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A continuous cinematic professional kitchen shot. The same middle-aged chef with gray stubble stands at the same stainless steel counter, reviewing the completed chocolate dessert. The environment, lighting, depth of field, and camera style remain consistent and realistic.",
+  "local_prompts": [
+    "The chef continues straightening his posture, lifting his torso slightly away from the counter.",
+    "He keeps his gaze fixed on the dessert, calmly judging the final presentation.",
+    "The camera pulls back just a little, revealing more of the stainless steel counter and the softly blurred kitchen behind him.",
+    "He places both hands lightly near the edge of the counter, no longer touching the plate.",
+    "His expression softens into quiet approval as he observes the completed garnish.",
+    "The scene holds a balanced composition with the chef above the counter and the dessert centered below him."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

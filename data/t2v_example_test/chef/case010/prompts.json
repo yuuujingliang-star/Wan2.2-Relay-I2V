@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A final continuous cinematic kitchen shot with the same middle-aged chef, the same plated chocolate dessert, the same stainless steel counter, and the same warm professional kitchen lighting. The composition remains elegant, realistic, stable, and visually continuous.",
+  "local_prompts": [
+    "The chef holds his relaxed posture beside the counter, keeping the plated dessert in front of him.",
+    "He gives a final confirming look at the dessert, his expression calm and quietly satisfied.",
+    "The camera slowly settles into a stable composition, framing both the chef and the dessert with balanced focus.",
+    "The chef remains still while the kitchen background stays softly blurred and consistent.",
+    "The plated chocolate dessert sits finished and centered, with the mint leaf cleanly placed on top.",
+    "The sequence ends in a refined, stable composition, presenting the completed dessert as the final visual focus."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

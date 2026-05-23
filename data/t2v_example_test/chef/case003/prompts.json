@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A continuous cinematic kitchen close-up with shallow depth of field. The same chef continues refining a plated chocolate dessert at the stainless steel counter. The dessert, plate, counter, kitchen lighting, and softly blurred background remain visually consistent.",
+  "local_prompts": [
+    "The chef continues working over the dessert after placing the mint leaf, keeping his fingertips close to the garnish.",
+    "He nudges the mint leaf slightly to one side, aligning it more precisely with the curve of the frosting.",
+    "He adjusts the angle of the leaf with a tiny controlled movement, making it look balanced and intentional.",
+    "The camera subtly glides closer, emphasizing the leaf, the frosting texture, and the chef's careful hand motion.",
+    "The chef pauses with his hand hovering just above the plate, evaluating the composition of the dessert.",
+    "He makes one final micro-adjustment to the garnish, then holds still as the plating begins to look complete."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

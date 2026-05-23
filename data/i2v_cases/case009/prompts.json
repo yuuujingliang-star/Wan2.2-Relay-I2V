@@ -1,0 +1,16 @@
+{
+  "global_prompt": "A cinematic story of the same young Chinese man, about 25 years old, slim face, short black hair, wearing a dark coat and scarf, consistent face, consistent hairstyle, consistent clothing, stable identity across scenes, high detail.",
+
+  "local_prompts": [
+    "The young man walks in a bright daytime street, natural sunlight, clear shadows, modern city environment.",
+
+    "The same young man now walks in a night street scene, neon lights and glowing signs around, strong contrast lighting, reflections on the wet ground.",
+
+    "The same young man stands near a warmly lit shop window, golden indoor light illuminating his face softly, he looks relaxed and slightly smiling."
+  ],
+
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

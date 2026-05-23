@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A single continuous cinematic close-up in the same professional kitchen. The same chef continues finishing the plated chocolate dessert on the stainless steel counter. Lighting, camera movement, background softness, and visual continuity remain stable and realistic.",
+  "local_prompts": [
+    "The chef begins to lift his head from the working position, slowly moving his gaze away from the dessert surface.",
+    "His eyes shift forward as he straightens slightly, still keeping the dessert within his field of view.",
+    "The camera subtly rises with him, maintaining a medium close-up that includes both his face and the plated dessert.",
+    "He pauses halfway upright, studying the dessert with a composed and satisfied expression.",
+    "His shoulders relax slightly as the intense precision of the plating process gives way to calm inspection.",
+    "The dessert remains centered on the counter, with the mint leaf clearly visible as the final accent."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

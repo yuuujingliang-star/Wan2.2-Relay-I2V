@@ -1,0 +1,16 @@
+{
+  "global_prompt": "A cinematic realistic story of the same young woman, about 24 years old, long black hair, wearing a red coat, consistent face, consistent hairstyle, consistent clothing, stable identity across scenes, high detail.",
+
+  "local_prompts": [
+    "The young woman stands alone in a quiet park, looking around calmly, soft daylight.",
+
+    "The same woman walks into a busy street filled with many people, crowd moving around her, she remains the focus, camera follows her.",
+
+    "The same woman stops in the crowd, turns toward the camera, and smiles, people moving in the background."
+  ],
+
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

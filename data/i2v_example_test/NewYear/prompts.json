@@ -1,0 +1,13 @@
+{
+  "global_prompt": "A cinematic Chinese New Year scene with a consistent young man, wearing traditional festive red clothing, realistic style, stable identity, smooth motion, high detail, warm lighting, and continuous storytelling across scenes.",
+
+  "local_prompts": [
+    "A young man wearing bright red traditional Chinese festive clothing mounts a horse in a village courtyard, preparing to depart, with red decorations around.",
+
+    "The same man is riding the horse through a lively street filled with red lanterns, banners, and people celebrating Chinese New Year, the atmosphere is festive and warm, lanterns glowing around.",
+
+    "The man gets off the horse in front of a traditional house, smiles, and performs a respectful New Year greeting gesture, bowing slightly with hands clasped, people around responding happily."
+  ],
+
+  "segment_lengths": [12, 12, 13]
+}

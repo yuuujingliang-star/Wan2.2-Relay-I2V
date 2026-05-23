@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A cinematic realistic story of the same young male traveler, about 28 years old, narrow face, short black hair, wearing a dark wool coat, gray scarf, and brown leather backpack, consistent face, consistent hairstyle, consistent outfit, stable identity across scene cuts, winter atmosphere, realistic lighting, high detail.",
+  "local_prompts": [
+    "The young traveler stands inside an old train station, checking a paper map under warm overhead lights, his gray scarf and brown backpack clearly visible.",
+    "The same traveler exits the station into a snowy city street, snowflakes falling around him, street lamps glowing, he walks forward while holding the map.",
+    "The same traveler stops near a small street cafe, lowers the map, smiles with relief, and waves to someone approaching from across the snowy street."
+  ],
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

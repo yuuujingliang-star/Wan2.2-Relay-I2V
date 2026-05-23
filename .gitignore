@@ -1,0 +1,39 @@
+# IDE
+.idea/
+.vscode/
+
+# Outputs, logs, generated videos
+outputs/
+data/i2v_example_test/output/
+data/t2v_example_test/output/
+*.log
+*.mp4
+*.csv
+
+# Model weights / checkpoints
+Wan2.2-I2V-A14B/
+checkpoints/
+models/
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.onnx
+*.gguf
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
+.huggingface/
+modelscope/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Input images with unclear provenance
+data/**/*.png
+data/**/*.jpg
+data/**/*.jpeg

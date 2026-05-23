@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A cinematic realistic story of the same young Chinese woman, about 24 years old, oval face, clear eyes, long black hair tied back, wearing an elegant red silk dance costume with gold embroidery, consistent face, consistent hairstyle, consistent costume, stable identity across scene cuts, warm theatrical lighting, high detail.",
+  "local_prompts": [
+    "The young woman stands backstage beside a wooden dressing table, carefully fastening a golden hair ornament while looking into a mirror, quiet and concentrated.",
+    "The same young woman walks from backstage through a curtain into a traditional theater stage, red lanterns and soft stage lights surrounding her, her red silk costume flowing gently.",
+    "The same young woman performs a graceful dance gesture on stage, turning slowly with one arm raised, smiling gently as the audience area remains softly blurred."
+  ],
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

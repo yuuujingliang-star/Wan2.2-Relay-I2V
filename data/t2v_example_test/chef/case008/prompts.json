@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A single continuous cinematic kitchen shot with the same chef, same dessert, same counter, and consistent lighting. The scene remains realistic, refined, and visually stable, with shallow depth of field and smooth camera motion.",
+  "local_prompts": [
+    "The chef leans back slightly from the counter, creating a little more space between himself and the dessert.",
+    "He tilts his head subtly, viewing the dessert from a different angle without changing the plate's position.",
+    "The camera glides gently to the side, showing the mint leaf, chocolate frosting, and plate from a slightly new perspective.",
+    "The chef maintains a calm, professional expression, satisfied with the precise placement of the garnish.",
+    "He briefly glances across the counter as if checking for any remaining tools or finishing touches.",
+    "The kitchen background stays softly blurred and stable, while the dessert remains the clear visual focus."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

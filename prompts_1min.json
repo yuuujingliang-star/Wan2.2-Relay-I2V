@@ -1,0 +1,42 @@
+{
+  "global_prompt": "A single continuous cinematic tracking shot with shallow depth of field, smooth professional camera movement, and consistent lighting. A monkey eating a banana walks through a modern office environment. The scene is realistic, detailed, and cinematic, with natural human reactions and environmental continuity.",
+
+  "local_prompts": [
+
+    "The shot begins with closed elevator doors in a quiet office hallway. The doors slowly slide open, revealing only the monkey’s feet. The camera is placed low at floor level, tightly focused on the feet as the monkey steps forward.",
+
+    "The camera smoothly tracks backward while staying low, following the monkey’s feet as it walks out of the elevator into the hallway.",
+
+    "The camera begins a slow upward tilt and arc, revealing the monkey’s legs and torso while it continues walking forward calmly.",
+
+    "The camera continues rising and rotating around to the front of the monkey, transitioning into a medium shot as the monkey eats a banana while walking.",
+
+    "The camera moves closer into a frontal close-up of the monkey’s face, capturing detailed chewing motion and natural expression.",
+
+    "The camera begins to pull back slightly while continuing to track backward, maintaining the monkey centered in frame as it walks confidently.",
+
+    "The monkey passes by office desks, where workers begin to notice it. Some turn their heads in confusion.",
+
+    "The camera slowly pans left, revealing two office workers in formal attire who freeze in shock, staring at the monkey.",
+
+    "The monkey walks past them without stopping, continuing to eat the banana casually.",
+
+    "The camera follows the monkey past the workers, maintaining smooth motion and stable composition.",
+
+    "More workers in the background begin reacting, some standing up, others pointing or whispering.",
+
+    "The camera widens slightly, showing more of the office space with desks, computers, and natural lighting.",
+
+    "The monkey approaches a glass meeting room while continuing to walk.",
+
+    "Inside the glass room, several people notice the monkey and react with surprise and confusion.",
+
+    "The camera shifts angle slightly to capture reflections on the glass as the monkey passes.",
+
+    "The monkey slows down near a desk and looks around while chewing the banana.",
+
+    "The camera gently circles the monkey in a smooth arc, emphasizing its presence in the office.",
+
+    "The scene stabilizes as the monkey stands calmly, finishing the banana, while the surrounding office remains in shock."
+  ]
+}

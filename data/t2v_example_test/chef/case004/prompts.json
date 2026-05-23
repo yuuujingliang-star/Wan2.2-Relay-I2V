@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A single continuous cinematic shot in the same professional kitchen. The same middle-aged chef with gray stubble remains at the stainless steel counter, finishing a refined chocolate dessert. The shot maintains shallow depth of field, consistent lighting, realistic detail, and smooth camera movement.",
+  "local_prompts": [
+    "The chef slowly withdraws his hand from the dessert, leaving the mint leaf neatly positioned on the frosting.",
+    "His fingers move away from the plate with care, avoiding any contact with the finished garnish.",
+    "The camera follows the retreating hand slightly, then settles back onto the plated dessert.",
+    "The chef lowers his hand to the counter beside the plate, keeping his attention on the dessert.",
+    "He studies the garnish placement with a calm, focused expression, making sure the dessert looks balanced.",
+    "The scene remains quiet and controlled, with the plated dessert centered and the chef still leaning over it."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

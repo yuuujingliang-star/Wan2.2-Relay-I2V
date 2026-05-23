@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A continuous cinematic scene in the same professional kitchen. The same chef and the completed chocolate dessert remain the central subjects. The camera movement is smooth, the lighting remains warm and consistent, and the background stays softly out of focus.",
+  "local_prompts": [
+    "The chef returns his full attention to the dessert, giving it one more careful look.",
+    "He subtly nods to himself, as if confirming that the plating is complete.",
+    "The camera moves into a slightly lower angle, making the dessert appear elegant and prominent in the foreground.",
+    "The mint leaf sits neatly on the frosting, contrasting against the dark chocolate surface.",
+    "The chef's face remains calm and focused behind the plate, with a quiet sense of satisfaction.",
+    "The motion in the scene slows, emphasizing the completed dessert and the controlled professional atmosphere."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

@@ -1,0 +1,16 @@
+{
+  "global_prompt": "A cinematic realistic story of the same young male traveler, about 28 years old, narrow face, short black hair, wearing a dark wool coat, gray scarf, and brown leather backpack, consistent face, consistent hairstyle, consistent outfit, stable identity across scene cuts, realistic winter atmosphere, high detail.",
+
+  "local_prompts": [
+    "A wide cinematic shot of a snowy city square, many people walking, the young traveler appears small in the scene walking across the square, snow falling, cold atmosphere.",
+
+    "The same traveler is now followed by the camera from behind at medium distance, walking along a snowy street, his gray scarf and brown backpack clearly visible, snowflakes falling around him.",
+
+    "A close-up shot of the same traveler’s face as he stops, breath visible in the cold air, he looks slightly to the side and smiles softly, snowflakes landing on his hair."
+  ],
+
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

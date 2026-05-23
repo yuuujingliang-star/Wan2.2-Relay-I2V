@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A single continuous cinematic close-up scene inside a professional kitchen. A middle-aged male chef with gray stubble works at a stainless steel counter, preparing and presenting a plated chocolate dessert. The kitchen background remains softly blurred with warm, consistent lighting, shallow depth of field, realistic textures, smooth camera movement, and stable visual continuity.",
+  "local_prompts": [
+    "From a slight high-angle medium close-up, the chef leans over the stainless steel counter, carefully studying the plated chocolate dessert in front of him.",
+    "The camera holds steady as the dessert sits centered on a white plate, with glossy chocolate frosting, delicate texture, and small decorative details visible.",
+    "The chef reaches slowly toward a small tray of garnishes beside the plate, keeping his posture focused and controlled.",
+    "He selects a small fresh mint leaf with precise fingers, lifting it gently from the tray without disturbing the other garnishes.",
+    "He brings the mint leaf above the dessert, pausing briefly while aligning his hand over the center of the frosting.",
+    "The shot remains stable and intimate, emphasizing the chef's concentration, the dessert's surface, and the quiet professional kitchen atmosphere."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

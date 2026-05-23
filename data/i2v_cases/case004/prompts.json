@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A cinematic story of the same young Chinese man, about 25 years old, slim face, sharp eyebrows, short black hair, wearing a red traditional Chinese outfit with golden embroidery, consistent face, consistent hairstyle, consistent clothing, realistic style, high detail, warm lighting, stable identity across all scene cuts, no identity change.",
+  "local_prompts": [
+    "The young man stands indoors in a traditional wooden room decorated for Chinese New Year, adjusting his red embroidered clothing in front of a mirror, calm and focused expression.",
+    "The same young man walks outside onto an ancient festive street, surrounded by red lanterns, red banners, and passing people, the camera follows him smoothly from the front.",
+    "The same young man stops in a crowded New Year street, smiles, clasps his hands, and performs a traditional New Year greeting gesture toward people around him."
+  ],
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A cinematic wuxia story of the same young Chinese swordsman, about 22 years old, sharp eyes, long black hair tied in a high ponytail, wearing a dark blue robe with silver trim, carrying a sheathed sword on his back, consistent face, consistent hairstyle, consistent clothing, stable identity across scene cuts, realistic fantasy style, high detail.",
+  "local_prompts": [
+    "The young swordsman stands in a quiet stone courtyard, adjusting the sword on his back, his dark blue robe moving slightly in the wind, calm and determined expression.",
+    "The same swordsman walks through a bamboo forest path, mist drifting between the trees, the camera follows beside him as his robe and ponytail move naturally.",
+    "The same swordsman arrives at a mountain gate, stops, turns toward the camera, and performs a respectful martial salute with both hands, maintaining a focused expression."
+  ],
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}

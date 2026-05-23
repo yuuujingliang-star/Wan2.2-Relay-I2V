@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A continuous cinematic kitchen scene focused on the same chef and the same plated chocolate dessert. The stainless steel counter, warm lighting, soft background blur, shallow depth of field, and realistic professional kitchen atmosphere remain consistent.",
+  "local_prompts": [
+    "The chef continues inspecting the dessert from above, his posture still slightly leaned over the counter.",
+    "He gently rotates the plate a few degrees with one hand, checking how the garnish aligns from a new angle.",
+    "The chocolate dessert catches the warm kitchen light, showing a glossy surface and fine frosting details.",
+    "The chef stops the plate rotation and steadies it, keeping the dessert centered in front of him.",
+    "He leans slightly closer again, narrowing his eyes as if checking the final symmetry of the garnish.",
+    "The camera holds a refined close-up composition, with the dessert in the foreground and the chef's focused face just behind it."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

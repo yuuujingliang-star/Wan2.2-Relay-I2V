@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A single continuous cinematic anime-style action sequence under a bright blue sky. A young boy in a red martial arts gi fights an opponent on a grassy field surrounded by stylized green trees. The animation is smooth, vibrant, physically coherent, with consistent lighting, stable camera movement, and continuous temporal flow.",
+  "local_prompts": [
+    "The boy continues his forward motion and pivots sharply on one foot.",
+    "He initiates a fast rotational movement, spinning his body.",
+    "His upper body remains controlled as the rotation speeds up.",
+    "The opponent adjusts stance, preparing to defend.",
+    "The camera slightly arcs to follow the spinning motion.",
+    "The rotation builds into a powerful attack setup."
+  ],
+  "segment_lengths": [6,6,6,6,6,7]
+}

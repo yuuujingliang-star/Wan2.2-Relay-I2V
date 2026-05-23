@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A single continuous cinematic close-up scene inside the same professional kitchen. The same middle-aged male chef with gray stubble continues plating the same chocolate dessert on the same stainless steel counter. The lighting, background blur, camera style, dessert appearance, and chef identity remain consistent across the sequence.",
+  "local_prompts": [
+    "The chef continues holding the small mint leaf above the chocolate dessert, keeping his hand steady and his eyes fixed on the frosting.",
+    "He lowers his hand with controlled precision, moving the mint leaf slowly toward the glossy surface of the dessert.",
+    "The mint leaf touches the frosting gently, landing near the center without smearing the chocolate texture.",
+    "The chef releases the leaf carefully, making sure it remains flat and clean on the dessert surface.",
+    "He keeps his fingers close to the plate for a moment, checking the placement from a slight angle.",
+    "The camera remains close and stable, capturing the delicate garnish placement as the kitchen stays softly out of focus behind him."
+  ],
+  "segment_lengths": [6, 6, 6, 6, 6, 7]
+}

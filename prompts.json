@@ -1,0 +1,11 @@
+{
+  "global_prompt": "A single continuous shallow-depth-of-field cinematic tracking shot, with elegant camera movement. A monkey eating a banana walks out of an elevator into a modern office. Two office workers look shocked as the monkey walks by.",
+  
+  "local_prompts": [
+    "The shot begins on the closed elevator doors in a quiet modern office hallway. The elevator doors slide open to reveal only the monkey's hairy feet. The camera starts low at floor level, tightly framed on the monkey's feet, and tracks backward smoothly as the monkey steps out of the elevator and begins walking forward.",
+
+    "The camera continues tracking the monkey for several steps as he walks, then begins a smooth rising arc around the front of his body. As it arcs and lifts from a low angle to a higher medium shot, with the camera always staying in front of the monkey. it gradually reveals his figure and face while he keeps walking forward. The camera keeps gliding backward in front of him and rises further into a close frontal shot of the monkey's face. The camera holds on his face in the same uninterrupted motion as he eats the banana.",
+    
+    "The camera then pans to the left, revealing two men in formal attire staring in shock as the monkey walks past. Their eyes are wide and their mouths hang open in disbe`lief."
+  ]
+}

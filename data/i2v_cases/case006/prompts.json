@@ -1,0 +1,12 @@
+{
+  "global_prompt": "A cinematic realistic story of the same middle-aged male chef, around 45 years old, short dark hair with gray stubble, strong facial features, wearing a white chef jacket and dark apron, consistent face, consistent hairstyle, consistent clothing, stable identity across all scene cuts, realistic restaurant lighting, high detail.",
+  "local_prompts": [
+    "The chef stands in a professional kitchen, carefully adding final decoration to a plated chocolate dessert on a stainless steel counter, focused expression, warm kitchen lights.",
+    "The same chef carries the plated dessert through a narrow kitchen doorway into an elegant restaurant dining area, walking carefully while holding the plate steady.",
+    "The same chef places the dessert on a dining table in front of guests, smiles politely, and slightly bows as the restaurant background glows warmly."
+  ],
+  "segment_lengths_by_duration": {
+    "9s": [12, 12, 13],
+    "15s": [20, 20, 21]
+  }
+}
