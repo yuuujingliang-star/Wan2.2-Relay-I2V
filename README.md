@@ -29,16 +29,16 @@ The following examples compare the original Wan2.2 I2V baseline with this unoffi
 
 Each pair uses the same reference image and the same high-level multi-event prompt. The baseline uses a single long prompt, while Prompt Relay separates the prompt into `global_prompt`, `local_prompts`, and `segment_lengths` for latent-frame-level temporal routing.
 
-The GIFs below are generated at 24 FPS with 1024px width for README preview.
+The GIFs below are README-friendly previews generated from the original videos.
 
-### Example 1: Traveler Snow Scene
+### Example 1: Stage Dancer Scene
 
-Input image: [`assets/comparison/traveler_snow/input.png`](assets/comparison/traveler_snow/input.png)  
-Prompt file: [`assets/comparison/traveler_snow/prompt.json`](assets/comparison/traveler_snow/prompt.json)
+Input image: [`assets/comparison/stage_dancer/input.png`](assets/comparison/stage_dancer/input.png)  
+Prompt file: [`assets/comparison/stage_dancer/prompt.json`](assets/comparison/stage_dancer/prompt.json)
 
 | Wan2.2 + Prompt Relay I2V | Wan2.2 I2V Baseline |
 |---|---|
-| ![Wan2.2 + Prompt Relay I2V](assets/comparison/traveler_snow/wan22_prompt_relay_traveler_snow_15s.gif) | ![Wan2.2 I2V Baseline](assets/comparison/traveler_snow/wan22_baseline_traveler_snow_15s.gif) |
+| ![Wan2.2 + Prompt Relay I2V](assets/comparison/stage_dancer/wan22_prompt_relay_stage_dancer_15s.gif) | ![Wan2.2 I2V Baseline](assets/comparison/stage_dancer/wan22_baseline_stage_dancer_15s.gif) |
 
 ### Example 2: Wuxia Swordsman Scene
 
