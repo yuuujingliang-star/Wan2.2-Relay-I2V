@@ -1,0 +1,11 @@
+{
+  "global_prompt": "A cinematic realistic story of the same young male traveler, wearing a dark coat, gray scarf, and brown leather backpack, consistent face, consistent hairstyle, consistent outfit, stable identity across scenes, high detail.",
+  "local_prompts": [
+    "The traveler adjusts his gray scarf while standing in a train station, holding his backpack strap.",
+    "The same traveler walks outside into a snowy street, still wearing the same scarf and backpack, camera moving alongside him.",
+    "The same traveler removes one hand from the scarf, breath visible in cold air, looking ahead calmly."
+  ],
+  "segment_lengths_by_duration": {
+    "15s": [20, 20, 21]
+  }
+}
