@@ -29,7 +29,7 @@ The following examples compare the original Wan2.2 I2V baseline with this unoffi
 
 Each pair uses the same reference image and the same high-level multi-event prompt. The baseline uses a single long prompt, while Prompt Relay separates the prompt into `global_prompt`, `local_prompts`, and `segment_lengths` for latent-frame-level temporal routing.
 
-The videos are provided at original quality. Click each preview image to open the corresponding video.
+The GIFs below are generated at 24 FPS with 1024px width for README preview.
 
 ### Example 1: Traveler Snow Scene
 
@@ -38,7 +38,7 @@ Prompt file: [`assets/comparison/traveler_snow/prompt.json`](assets/comparison/t
 
 | Wan2.2 + Prompt Relay I2V | Wan2.2 I2V Baseline |
 |---|---|
-| [![Wan2.2 + Prompt Relay I2V](assets/comparison/traveler_snow/wan22_prompt_relay_traveler_snow_15s.png)](assets/comparison/traveler_snow/wan22_prompt_relay_traveler_snow_15s.mp4) | [![Wan2.2 I2V Baseline](assets/comparison/traveler_snow/wan22_baseline_traveler_snow_15s.png)](assets/comparison/traveler_snow/wan22_baseline_traveler_snow_15s.mp4) |
+| ![Wan2.2 + Prompt Relay I2V](assets/comparison/traveler_snow/wan22_prompt_relay_traveler_snow_15s.gif) | ![Wan2.2 I2V Baseline](assets/comparison/traveler_snow/wan22_baseline_traveler_snow_15s.gif) |
 
 ### Example 2: Wuxia Swordsman Scene
 
@@ -47,7 +47,7 @@ Prompt file: [`assets/comparison/wuxia_swordsman/prompt.json`](assets/comparison
 
 | Wan2.2 + Prompt Relay I2V | Wan2.2 I2V Baseline |
 |---|---|
-| [![Wan2.2 + Prompt Relay I2V](assets/comparison/wuxia_swordsman/wan22_prompt_relay_wuxia_swordsman_15s.png)](assets/comparison/wuxia_swordsman/wan22_prompt_relay_wuxia_swordsman_15s.mp4) | [![Wan2.2 I2V Baseline](assets/comparison/wuxia_swordsman/wan22_baseline_wuxia_swordsman_15s.png)](assets/comparison/wuxia_swordsman/wan22_baseline_wuxia_swordsman_15s.mp4) |
+| ![Wan2.2 + Prompt Relay I2V](assets/comparison/wuxia_swordsman/wan22_prompt_relay_wuxia_swordsman_15s.gif) | ![Wan2.2 I2V Baseline](assets/comparison/wuxia_swordsman/wan22_baseline_wuxia_swordsman_15s.gif) |
 
 
 ## Method Overview
