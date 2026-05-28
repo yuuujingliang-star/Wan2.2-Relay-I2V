@@ -59,8 +59,9 @@ case "$MODE" in
     ;;
 esac
 
-PROJECT_ROOT="/gemini/platform/public/aigc/human_guozz2/code/lyj/Wan2.2-Relay-I2V"
-MODEL_DIR="/gemini/platform/public/aigc/human_guozz2/model/Wan2.2-I2V-A14B"
+PROJECT_ROOT="${PROJECT_ROOT:-$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)}"
+PROJECT_ROOT="$(cd "$PROJECT_ROOT" && pwd)"
+MODEL_DIR="${MODEL_DIR:-./Wan2.2-I2V-A14B}"
 CASE_ROOT="$PROJECT_ROOT/data/i2v_cases"
 OUTPUT_ROOT="$PROJECT_ROOT/outputs/i2v_prompt_relay/$DURATION"
 RELAY_DIR="$OUTPUT_ROOT/relay"
